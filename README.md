@@ -1,2 +1,2 @@
 # GitPrueba
-prueba dde git 
+prueba de git 
